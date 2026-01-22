@@ -3,7 +3,7 @@
 This repository contains my solutions for various tracks on [Exercism](https://exercism.org). I use this platform to sharpen my programming skills through test-driven development (TDD).
 
 ##  Current Progress
-- **Batch Script Track**:  In Progress
+- **Bash Script Track**:  In Progress
 - **Python Track**:  In Progress
 - **JavaScript Track**:  Planned
 
